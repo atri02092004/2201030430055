@@ -12,7 +12,7 @@ Travel Booking & Guidance At Metronic.
 
 ## Acknowledgements
 
- - [Live preview](https://atri02092004.github.io/2201030430055/assignment_2/index.html)
+ - [Live preview](https://atri02092004.github.io/2201030430055/assignment_2/)
    
    Deployed Using Github Pages :)
  
